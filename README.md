@@ -29,7 +29,7 @@ There are two datasets residing in S3:
 - AWS S3
 - AWS Redshift
 
-## Resulted DAG
+## Required DAG
 ![Resulted DAG](res_dag.png)
 
 ## Setup
